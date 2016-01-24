@@ -1,11 +1,13 @@
-import Strings.Three;
+import Collections.CollThree;
+import Collections.CollThreeModif;
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
 
-        Three three = new Three();
-        System.out.println(three.repairText("ра мура марама рарама врама"));
+
+        CollThree c3 = new CollThreeModif();
+        System.out.println(c3.findNext(6));
+        }
     }
-}
+
