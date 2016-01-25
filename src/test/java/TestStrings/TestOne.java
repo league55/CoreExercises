@@ -1,6 +1,6 @@
 package TestStrings;
 
-import Strings.One;
+import strings.One;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

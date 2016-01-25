@@ -1,6 +1,6 @@
 package patterns.MVC;
 
-import Strings.Two;
+import strings.Two;
 
 /**
  *

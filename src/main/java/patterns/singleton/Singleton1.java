@@ -1,4 +1,4 @@
-package patterns.Singleton;
+package patterns.singleton;
 
 /**
  *
